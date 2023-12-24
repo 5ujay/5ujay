@@ -4,7 +4,7 @@
 <img src="https://i.ytimg.com/vi/09f1RuMrD_A/maxresdefault.jpg" alt="" style="width: 400px;  display: flex;
                 flex-direction: row;
                 justify-content: end;
-                align-items: center;">
+                align-items: end;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5ujay&label=Profile%20views&color=0e75b6&style=flat" alt="5ujay" /> </p>
 
