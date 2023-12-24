@@ -1,4 +1,4 @@
-![logo](https://github.com/5ujay/5ujay/blob/main/Screenshot%202023-12-24%20211408.png))
+![logo](https://github.com/5ujay/5ujay/blob/main/Screenshot%202023-12-24%20211408.png)
 <h1 align="center">Hi 👋, I'm SUJAY PAGAM</h1>
 <h3 align="center">A passionate frontend developer from India, Let's create something together.</h3>
 
