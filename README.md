@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm SUJAY PAGAM</h1>
 <h3 align="center">A passionate frontend developer from India, Let's create something together.</h3>
 
-<img src="https://i.ytimg.com/vi/09f1RuMrD_A/maxresdefault.jpg" alt="" style="width: 400px;  display: flex;
-                flex-direction: row;
-                justify-content: end;
-                align-items: end;">
+<img src="https://i.ytimg.com/vi/09f1RuMrD_A/maxresdefault.jpg" alt="" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5ujay&label=Profile%20views&color=0e75b6&style=flat" alt="5ujay" /> </p>
 
