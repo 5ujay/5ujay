@@ -1,4 +1,4 @@
-![logo]([https://github.com/5ujay/5ujay/blob/main/Black%20and%20White%20Minimalist%20Black%20Friday%20Landscape%20Banner.mp4](https://github.com/5ujay/5ujay/blob/main/Screenshot%202023-12-24%20211408.png))
+![logo](https://github.com/5ujay/5ujay/blob/main/Screenshot%202023-12-24%20211408.png))
 <h1 align="center">Hi 👋, I'm SUJAY PAGAM</h1>
 <h3 align="center">A passionate frontend developer from India, Let's create something together.</h3>
 
