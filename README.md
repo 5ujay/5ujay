@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5ujay&label=Profile%20views&color=0e75b6&style=flat" alt="5ujay" /> </p>
 
-- 👨‍💻 All of my Info available at my portfolio (currently_upadating_upadate_soon)
+- 👨‍💻 All of my Info available at my portfolio (https://sujaypagam-portfolio.netlify.app/)
 
 - 📫 How to reach me **sujaypagam777@gmail.com**
 
