@@ -1,6 +1,6 @@
-<!-- Adding a calm, animated background -->
+<!-- Banner with Animated GIF -->
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/2ea4b296820383.5eb54f3420a41.gif" width="100%" />
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="100%" alt="Animated Coding Banner"/>
 </p>
 
 <h1 align="center">Hey there, I'm Sujay Pagam! 👋🚀</h1>
