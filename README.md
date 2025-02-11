@@ -1,4 +1,10 @@
+<!-- Adding a calm, animated background -->
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/2ea4b296820383.5eb54f3420a41.gif" width="100%" />
+</p>
+
 <h1 align="center">Hey there, I'm Sujay Pagam! 👋🚀</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=🚀+Developer;⚡+Passionate+about+Tech;💡+Innovative+Thinker;🔥+React+Native+Enthusiast;🎨+Frontend+Magician;🌍+Open+to+Collaborations" alt="Typing SVG" />
 </p>
@@ -78,9 +84,8 @@
 ---
 
 ## ✨ **Fun Fact**
-> "whatever you think is going to happen !" 💡
+> "Whatever you think is going to happen!" 💡
 
 ---
 
 **⭐ If you like my work, consider giving it a star!** 🌟  
-
