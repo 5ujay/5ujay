@@ -1,8 +1,3 @@
-<!-- Banner with Animated GIF -->
-<p align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="100%" alt="Animated Coding Banner"/>
-</p>
-
 <h1 align="center">Hey there, I'm Sujay Pagam! 👋🚀</h1>
 
 <p align="center">
@@ -79,6 +74,13 @@
 ## 🏆 **GitHub Achievements**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=5ujay&theme=radical&no-frame=true" />
+</p>
+
+---
+
+<!-- Banner with Animated GIF -->
+<p align="center">
+  <img src="https://i.gifer.com/fzPJ.gif" width="100%" alt="Animated Coding Banner"/>
 </p>
 
 ---
