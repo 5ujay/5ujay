@@ -14,7 +14,7 @@
 
 ## 🌟 **About Me**
 
-- 🧑‍💻 Passionate **Full-Stack Developer** with expertise in **Web & Mobile Development**  
+- 🧑‍💻 Passionate **Developer** with expertise in **Web & Mobile Development**  
 - 💡 Always exploring new technologies and pushing my boundaries  
 - 🔥 Specializing in **React Native, React.js, Next.js, TypeScript & C++**  
 - 🎯 Strong believer in **Clean Code & UI/UX Perfection**  
