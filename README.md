@@ -5,6 +5,13 @@
 
 ---
 
+## 🛕 **Spiritual Gratitude 🙏**
+<p align="center">
+  ✨ **ॐ कृष्णाय वासुदेवाय हरये परमात्मने प्रणत क्लेशनाशाय गोविन्दाय नमो नमः** ✨  
+</p>
+
+---
+
 ## 🌟 **About Me**
 
 - 🧑‍💻 Passionate **Full-Stack Developer** with expertise in **Web & Mobile Development**  
@@ -12,7 +19,7 @@
 - 🔥 Specializing in **React Native, React.js, Next.js, TypeScript & C++**  
 - 🎯 Strong believer in **Clean Code & UI/UX Perfection**  
 - 🚀 Always ready to **collaborate & build amazing projects**  
-- 📩 Reach me: **[sujay@example.com](mailto:sujay@example.com)**  
+- 📩 Reach me: **sujaypagam111@gmail.com**  
 
 ---
 
@@ -29,16 +36,9 @@
 ### 📱 Mobile Development  
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
 
-### 🛠 Backend & DevOps  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
-
 ### 🔧 Tools & Other Technologies  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
 ---
@@ -77,17 +77,8 @@
 
 ---
 
-## 🎯 **Recent Activity**
-<!--START_SECTION:activity-->
-1. 🎉 Initialized new repository [5ujay/Awesome-React](https://github.com/5ujay/Awesome-React)
-2. 🚀 Pushed new updates to [5ujay/Next-Level-WebDev](https://github.com/5ujay/Next-Level-WebDev)
-3. 🔥 Merged PR in [5ujay/Mobile-UI-Kit](https://github.com/5ujay/Mobile-UI-Kit)
-<!--END_SECTION:activity-->
-
----
-
 ## ✨ **Fun Fact**
-> "The best way to predict the future is to create it!" 💡
+> "whatever you think is going to happen !" 💡
 
 ---
 
